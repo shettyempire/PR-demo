@@ -1,7 +1,7 @@
 function test(){
   //Design is abstract code
   var design = true;
-  var mass;
+  var mass, velocity;
   var subdevision;
   if(design){
     subdevision = true;
